@@ -7,7 +7,7 @@ const About = () => {
         <h2 className="about__title">About Me</h2>
         <p className="about__description">
           Full-stack developer with a passion for technology, collaborating effectively in teams to overcome technical and creative challenges.
-          I stand out hgjgbghfor my hjgbhgjbgh to detail and my ability to work in a team and overcome challenges.
+          I stand out hgjgbghfor5445154 my hjgbhgjbgh to diujuhilketail and my ability to work in a team and overcome challenges.
         </p>
       </div>
     </section>
